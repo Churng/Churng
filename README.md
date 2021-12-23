@@ -16,6 +16,7 @@ I want to learn English. Now I watch English youtube channels and articles every
 - Element-ui, Bootstrap
 - JavaScript
 - Vue, Vue-Router 
+- React, Next.js <span style="border=1px; color:white; background-color:red; width:30px;">New</span>
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
