@@ -27,7 +27,12 @@ I want to learn English. Now I watch English youtube channels and articles every
 ## 💡 Projects
 - [Search Mask](https://churng.github.io/mask_work/)
 - [AQI](https://churng.github.io/AQIproject_byVUE/)
-- [Layout](https://churng.github.io/layout-practice-0106/)
+
+## 🧩 Work
+- [DomohornWrinkle](https://kad.events.104.com.tw/domohornwrinkle_20220608/)
+- [Tact](https://kad.events.104.com.tw/tact_20220516/?shelfId=176361&jobsource=176361_)
+- [Idbet](https://kad.events.104.com.tw/idbet/)
+
 
 ## 🔗 Get in touch
 - Personal site: https://github.com/Churng
